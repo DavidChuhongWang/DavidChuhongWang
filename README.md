@@ -28,4 +28,3 @@ I'm a dedicated software engineer committed to building intuitive and impactful 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/david-wang-93949324b)
 
 Feel free to reach out if you're interested in discussing technology, potential collaborations, SWE internship opportunities, or just want to say hi!
-# DavidChuhongWang
