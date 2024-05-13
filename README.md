@@ -7,7 +7,7 @@ I'm a dedicated software engineer committed to building intuitive and impactful 
 ### 🚀 Professional Experience
 
 - 🏢 **SDE @ NCR Corporation** | I refined data processing by automating AWS workflows, significantly enhancing storage efficiency and reducing transaction data processing times.
-- 📈 **SWE @ China Galaxy Securities** | I engineered financial systems to reduce manual labor significantly, automate financial report generation, and ensure high data accuracy using advanced data science techniques.
+- 📈 **SWE @ China Galaxy Securities** | I engineered backend APIs to reduce manual labor significantly, automate financial report generation, and ensure high data accuracy using advanced data science techniques.
 - 🔬 **Data Engineer @ National Center for Human Genetic Resources** | My contributions involved automating data extraction processes and identifying genetic correlations through advanced statistical analysis.
 
 ### 🌐 Projects Highlight
@@ -18,9 +18,9 @@ I'm a dedicated software engineer committed to building intuitive and impactful 
 
 ### Skills Toolbox
 
-🛠️ **Languages**: Python, JavaScript/TypeScript, C++, Java, SQL, HTML/CSS, R
-🔧 **Frameworks**: Frameworks: React.js, Django, Node.js, Express.js, Flask, WebRTC, TensorFlow, scikit-learn, Pandas, NumPy, Celery
-⛏️ **Technologies**: MongoDB, PostgreSQL, Git, Docker, AWS, Firebase, Postman, Bash, Google Cloud, REST, JMeter, Spark
+- 🛠️ **Languages**: Python, JavaScript/TypeScript, C++, Java, SQL, HTML/CSS, R
+- 🔧 **Frameworks**: Frameworks: React.js, Django, Node.js, Express.js, Flask, WebRTC, TensorFlow, scikit-learn, Pandas, NumPy, Celery
+- ⛏️ **Technologies**: MongoDB, PostgreSQL, Git, Docker, AWS, Firebase, Postman, Bash, Google Cloud, REST, JMeter, Spark
 
 ### Let’s Connect!
 
