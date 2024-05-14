@@ -2,7 +2,7 @@
 
 ### ✅ About Me
 
-I'm a dedicated software engineer committed to building intuitive and impactful products that address real-world problems. I am deeply involved in local and remote software communities, exposed to the forefront technologies and frameworks.
+I'm a dedicated software engineer committed to building intuitive and impactful products that address real-world problems. I am deeply involved in local and remote software communities, exposing myself to the forefront technologies and frameworks.
 
 ### 🚀 Professional Experience
 
