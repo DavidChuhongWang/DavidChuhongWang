@@ -4,11 +4,6 @@
 
 I'm a dedicated software engineer committed to building intuitive and impactful products that address real-world problems. I am deeply involved in local and remote software communities, exposing myself to the forefront technologies and frameworks.
 
-### 🚀 Professional Experience
-
-- 🏢 **SDE @ NCR Corporation** | I refined data processing by automating AWS workflows, significantly enhancing storage efficiency and reducing transaction data processing times.
-- 📈 **SWE @ China Galaxy Securities** | I engineered backend APIs to reduce manual labor significantly, automate financial report generation, and ensure high data accuracy using advanced data science techniques.
-- 🔬 **Data Engineer @ National Center for Human Genetic Resources** | My contributions involved automating data extraction processes and identifying genetic correlations through advanced statistical analysis.
 
 ### 🌐 Projects Highlight
 
