@@ -7,8 +7,8 @@ I'm a passionate software engineer committed to building intuitive and impactful
 
 ### Skills Toolbox
 
-- 🛠️ **Languages**: Python, JavaScript/TypeScript, C++, Go, Java, SQL, HTML/CSS, R
-- 🔧 **Frameworks**: React.js, React Native, Node.js, Next.js, Express.js, JWT, Django, Flask, NumPy, PyTorch, Pandas
-- ⛏️ **Technologies**: PostgreSQL, mySQL, MongoDB, Git, Docker, AWS, Firebase, Postman, Bash, REST API, Spark
+- 🛠️ **Languages**:Python, JavaScript/TypeScript, C/C++, C#, Java, SQL, Bash, HTML/CSS, R
+- 🔧 **Frameworks**: React.js, Node.js, Next.js, Express.js, Django, Flask, NumPy, PyTorch, OpenCV, TensorFlow, Pandas
+- ⛏️ **Technologies**: AWS, Git, PostgreSQL, Docker, Kubernetes, mySQL, MongoDB, REST API, Spark, Linux/Unix
 
 Feel free to reach out if you're interested in discussing technology, potential collaborations, SWE internship opportunities, or just want to say hi! My email is d83wang@uwaterloo.ca.
