@@ -1,4 +1,4 @@
-## 🌟 Hi there! I'm David Wang, a CS undergrad @ UWaterloo.
+## 🌟 Hi there! I'm David Wang, a CS undergrad @ UWaterloo & MLE Intern @ Shopify.
 
 ### ✅ About Me
 
