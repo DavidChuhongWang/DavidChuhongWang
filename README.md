@@ -1,6 +1,6 @@
 # 🌟 Hey!!!
 
-### I am David Wang, a CS undergrad @ UWaterloo and MLE Intern @ Shopify. I'm a passionate engineer committed to building intuitive and impactful products that address real-world problems. 
+### I am David Wang, a CS undergrad @ UWaterloo and SWE Intern @ Amazon. I'm a passionate engineer committed to building intuitive and impactful products that address real-world problems. 
 
 ## Skills Toolbox
 
