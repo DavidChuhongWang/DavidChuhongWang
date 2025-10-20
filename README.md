@@ -15,9 +15,9 @@
 ---
 
 ## 🏅 Highlights
-- National Mathematics Scholarship ($25 k) • Dean’s Honours List (Top 10 %)  
-- Top 10 % AIME • National Gold Award, American Regions Mathematics League (ARML)
-- Global Top 5 National Economics Challenge • FRM Level 1  
+- National Mathematics Scholarship($25000); Dean’s Honours List  
+- Top 10%, AIME; National Gold Award, ARML
+- Global Top 5, National Economics Challenge; FRM Level 1  
 
 ---
 
