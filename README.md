@@ -1,7 +1,7 @@
 # 👋 Hi, I’m **David**
 
 🎓 **Computer Science @ University of Waterloo**  
-💼 SWE / MLE Intern @ **Palantir**, **Amazon**, **Shopify** and more 
+💼 SWE / MLE Intern @ **Palantir**, **Amazon**, **Shopify** and more  
 ⚙️ Interested in building high-performance systems for **quantitative trading** and **frontier AI technologies**, with a focus on distributed systems, ML infrastructure, and scalable backend systems
 
 ---
